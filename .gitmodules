@@ -1,3 +1,6 @@
 [submodule "evals-fe"]
 	path = evals-fe
 	url = https://github.com/ozyirl/evals-fe.git
+[submodule "evals-server"]
+	path = evals-server
+	url = https://github.com/ozyirl/evals-server.git
