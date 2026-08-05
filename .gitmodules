@@ -1,0 +1,3 @@
+[submodule "evals-fe"]
+	path = evals-fe
+	url = https://github.com/ozyirl/evals-fe.git
